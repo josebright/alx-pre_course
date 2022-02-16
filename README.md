@@ -1,2 +1,3 @@
-*Emphasize* _emphasize_
-**Strong** __Strong__
+*This file is mandatory in all ALX School projects*
+**This file is mandatory in all ALX School projects** 
+__This file is mandatory in all ALX School projects__
